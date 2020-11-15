@@ -1,0 +1,186 @@
+2020-11-15 20:55:50.042  INFO 1548 --- [main] TradeStoreServiceTests                   : Starting TradeStoreServiceTests on DESKTOP-EOPHKJS with PID 1548 (started by RemotePC in C:\Users\RemotePC\IdeaProjects\DBTradeStore)
+2020-11-15 20:55:50.054  INFO 1548 --- [main] TradeStoreServiceTests                   : No active profile set, falling back to default profiles: default
+2020-11-15 20:55:51.225  INFO 1548 --- [main] TradeStoreServiceTests                   : Started TradeStoreServiceTests in 3.127 seconds (JVM running for 8.951)
+2020-11-15 20:55:51.227  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Trade Processing Started
+2020-11-15 20:55:51.227  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTrade
+2020-11-15 20:55:51.228  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 20:55:51.228  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 20:55:51.231  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:51.301  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:51.301  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:51.302  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:51.302  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 20:55:51.303  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 20:55:51.303  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:51.304 ERROR 1548 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T1 got rejected due to maturity date less than today's date.
+2020-11-15 20:55:51.304  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 20:55:51.304  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:51.305 ERROR 1548 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T3 got rejected due to lower version.
+2020-11-15 20:55:51.306  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Processed Trade List -->[]
+2020-11-15 20:55:51.307  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 20:55:51.308  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 20:55:51.309  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 20:55:51.311  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Trade Processing End
+2020-11-15 20:55:53.555  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 20:55:53.555  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 20:55:53.556  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:53.556  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:53.556  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:53.558  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:53.558  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 20:55:53.558  INFO 1548 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 20:55:53.558 ERROR 1548 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T2 got rejected due to lower version.
+2020-11-15 21:01:34.307  INFO 4668 --- [main] TradeStoreServiceTests                   : Starting TradeStoreServiceTests on DESKTOP-EOPHKJS with PID 4668 (started by RemotePC in C:\Users\RemotePC\IdeaProjects\DBTradeStore)
+2020-11-15 21:01:34.332  INFO 4668 --- [main] TradeStoreServiceTests                   : No active profile set, falling back to default profiles: default
+2020-11-15 21:01:35.154  INFO 4668 --- [main] TradeStoreServiceTests                   : Started TradeStoreServiceTests in 1.403 seconds (JVM running for 3.185)
+2020-11-15 21:01:35.160  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Trade Processing Started
+2020-11-15 21:01:35.161  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTrade
+2020-11-15 21:01:35.164  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:01:35.164  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:01:35.168  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:35.175  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:35.180  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:35.180  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:35.181  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:01:35.182  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:01:35.183  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:35.183 ERROR 4668 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T1 got rejected due to maturity date less than today's date.
+2020-11-15 21:01:35.184  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:01:35.184  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:35.184 ERROR 4668 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T3 got rejected due to lower version.
+2020-11-15 21:01:35.185  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Processed Trade List -->[]
+2020-11-15 21:01:35.185  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:01:35.186  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:01:35.186  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:01:35.189  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Trade Processing End
+2020-11-15 21:01:36.119  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:01:36.120  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:01:36.123  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.124  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.124  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.125  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.125  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:01:36.125  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.126 ERROR 4668 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T2 got rejected due to lower version.
+2020-11-15 21:01:36.143  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:01:36.143  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:01:36.144  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.145  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.145  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.146  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.146  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:01:36.147  INFO 4668 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:01:36.148 ERROR 4668 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T1 got rejected due to maturity date less than today's date.
+2020-11-15 21:08:54.222  INFO 12620 --- [main] TradeStoreServiceTests                   : Starting TradeStoreServiceTests on DESKTOP-EOPHKJS with PID 12620 (started by RemotePC in C:\Users\RemotePC\IdeaProjects\DBTradeStore)
+2020-11-15 21:08:54.238  INFO 12620 --- [main] TradeStoreServiceTests                   : No active profile set, falling back to default profiles: default
+2020-11-15 21:08:55.373  INFO 12620 --- [main] TradeStoreServiceTests                   : Started TradeStoreServiceTests in 2.148 seconds (JVM running for 3.709)
+2020-11-15 21:08:55.375  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Trade Processing Started
+2020-11-15 21:08:55.375  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTrade
+2020-11-15 21:08:55.375  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:08:55.375  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:08:55.379  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:55.475  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:55.476  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:08:55.477  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:08:55.478  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:55.480 ERROR 12620 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T1 got rejected due to maturity date less than today's date.
+2020-11-15 21:08:55.480  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:08:55.480  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:55.481  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Processed Trade List -->[TradeVO [tradeId=T3, version=1, counterPartyId=CP-2, bookId=B1, maturityDate=Mon Jun 20 00:00:00 IST 2022, createdDate=Sun Nov 15 21:08:55 IST 2020, expired=N]]
+2020-11-15 21:08:55.482  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:08:55.484  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:08:55.485  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:08:55.488  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Trade Processing End
+2020-11-15 21:08:56.592  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:08:56.592  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:08:56.593  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.593  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.594  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.595  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.595  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:08:56.595  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.596 ERROR 12620 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T2 got rejected due to lower version.
+2020-11-15 21:08:56.687  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:08:56.688  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:08:56.688  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.689  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.690  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.691  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.734  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:08:56.735  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:08:56.736  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.736  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.736  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.738  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.738  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:08:56.741  INFO 12620 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:08:56.741 ERROR 12620 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T1 got rejected due to maturity date less than today's date.
+2020-11-15 21:14:45.833  INFO 13248 --- [main] TradeStoreServiceTests                   : Starting TradeStoreServiceTests on DESKTOP-EOPHKJS with PID 13248 (started by RemotePC in C:\Users\RemotePC\IdeaProjects\DBTradeStore)
+2020-11-15 21:14:45.857  INFO 13248 --- [main] TradeStoreServiceTests                   : No active profile set, falling back to default profiles: default
+2020-11-15 21:14:46.570  INFO 13248 --- [main] TradeStoreServiceTests                   : Started TradeStoreServiceTests in 1.286 seconds (JVM running for 2.726)
+2020-11-15 21:14:46.576  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Trade Processing Started
+2020-11-15 21:14:46.576  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTrade
+2020-11-15 21:14:46.576  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:14:46.577  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:14:46.582  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:46.604  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:46.605  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:46.605  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:46.605  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:14:46.607  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:14:46.607  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:46.608 ERROR 13248 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T1 got rejected due to maturity date less than today's date.
+2020-11-15 21:14:46.608  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:14:46.608  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:46.609  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Processed Trade List -->[TradeVO [tradeId=T3, version=1, counterPartyId=CP-2, bookId=B1, maturityDate=Mon Jun 20 00:00:00 IST 2022, createdDate=Sun Nov 15 21:14:46 IST 2020, expired=N]]
+2020-11-15 21:14:46.609  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:14:46.610  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:14:46.610  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:14:46.615  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Trade Processing End
+2020-11-15 21:14:47.021  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTrade
+2020-11-15 21:14:47.021  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:14:47.021  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:14:47.022  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.022  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.022  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.023  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.023  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:14:47.023  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:14:47.023  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.024 ERROR 13248 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T1 got rejected due to maturity date less than today's date.
+2020-11-15 21:14:47.024  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:14:47.024  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.025  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Processed Trade List -->[TradeVO [tradeId=T3, version=1, counterPartyId=CP-2, bookId=B1, maturityDate=Mon Jun 20 00:00:00 IST 2022, createdDate=Sun Nov 15 21:14:47 IST 2020, expired=N]]
+2020-11-15 21:14:47.025  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:14:47.025  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:14:47.025  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::writeToFile
+2020-11-15 21:14:47.026  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:14:47.026  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:14:47.026  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.027  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.027  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.027  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.036  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:14:47.036  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:14:47.036  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.037  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.037  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.038  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.038  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:14:47.038  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.038 ERROR 13248 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T2 got rejected due to lower version.
+2020-11-15 21:14:47.042  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:14:47.042  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:14:47.043  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.043  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.044  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.044  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.050  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::loadTradeStoreData
+2020-11-15 21:14:47.051  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::readFile
+2020-11-15 21:14:47.052  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.052  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.053  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.053  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.053  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::processTradeObj
+2020-11-15 21:14:47.054  INFO 13248 --- [main] c.d.t.application.TradeStoreApp          : Inside TradeStoreService::populateTradeObj
+2020-11-15 21:14:47.054 ERROR 13248 --- [main] c.d.t.application.TradeStoreApp          : TradeRejectException ::Trade::T1 got rejected due to maturity date less than today's date.

@@ -1,0 +1,5 @@
+Trade Id|Version|Counter-Party Id|Book-Id|Maturity Date|Created Date|Expired
+T2|2|CP-2|B1|11/11/2020|11/11/2020|Y
+
+T3|1|CP-2|B1|20/06/2022|15/11/2020|N
+
